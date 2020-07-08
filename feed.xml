@@ -10,6 +10,54 @@
     <id>https://marmmat.com</id>
 
     <entry>
+        <title>Painting</title>
+        <author>
+            <name>Code Space Services</name>
+        </author>
+        <link href="https://marmmat.com/painting/"/>
+        <id>https://marmmat.com/painting/</id>
+            <category term="Civil Worker"/>
+
+        <updated>2020-07-08T16:32:06+05:45</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://marmmat.com/media/posts/5/painting.jpg" alt="Painting" />
+                    Get creative wall painting designs &amp;amp; ideas for stylish home decor. Latest home painting colour ideas &amp; designs for bedrooms, living rooms and more at Marmmat. Book Now
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://marmmat.com/media/posts/5/painting.jpg" alt="Painting" />
+                <p>Get creative wall painting designs &amp;amp; ideas for stylish home decor. Latest home painting colour ideas &amp; designs for bedrooms, living rooms and more at Marmmat.</p>
+<p><a href="https://codespace.com.np/booking/?cat_id=10&amp;service_id=27">Book Now</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Plastering</title>
+        <author>
+            <name>Code Space Services</name>
+        </author>
+        <link href="https://marmmat.com/plastering/"/>
+        <id>https://marmmat.com/plastering/</id>
+            <category term="Civil Worker"/>
+
+        <updated>2020-07-08T16:32:06+05:45</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://marmmat.com/media/posts/4/plastering.jpg" alt="Plastering" />
+                    Plaster work is the major work to be done in the wall to increase the aesthetic of wall and home. Might that be the old wall or new wall our expert masons can make your wall look beautiful. Book Now
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://marmmat.com/media/posts/4/plastering.jpg" alt="Plastering" />
+                <p>Plaster work is the major work to be done in the wall to increase the aesthetic of wall and home. Might that be the old wall or new wall our expert masons can make your wall look beautiful.</p>
+<p><a href="https://codespace.com.np/booking/?cat_id=10&amp;service_id=26">Book Now</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Wall Cracks Repair</title>
         <author>
             <name>Code Space Services</name>
@@ -18,7 +66,7 @@
         <id>https://marmmat.com/wall-cracks-repair/</id>
             <category term="Civil Worker"/>
 
-        <updated>2020-07-08T16:25:20+05:45</updated>
+        <updated>2020-07-08T16:32:06+05:45</updated>
             <summary>
                 <![CDATA[
                         <img src="https://marmmat.com/media/posts/3/cracked-wall-fixing.jpg" alt="Wall Cracks Repair" />
@@ -42,7 +90,7 @@
         <id>https://marmmat.com/hand-rail-installation/</id>
             <category term="Civil Worker"/>
 
-        <updated>2020-07-08T16:25:20+05:45</updated>
+        <updated>2020-07-08T16:32:06+05:45</updated>
             <summary>
                 <![CDATA[
                         <img src="https://marmmat.com/media/posts/2/handrail-installation.jpg" alt="Hand Rail Installation" />
@@ -66,7 +114,7 @@
         <id>https://marmmat.com/ceiling-leakage-repair/</id>
             <category term="Civil Worker"/>
 
-        <updated>2020-07-08T16:25:20+05:45</updated>
+        <updated>2020-07-08T16:32:06+05:45</updated>
             <summary>
                 <![CDATA[
                         <img src="https://marmmat.com/media/posts/1/ceiling-leakage-fixing.jpg" alt="Ceiling Leakage Repair" />
