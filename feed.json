@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://marmmat.com/hand-rail-installation/",
+            "url": "https://marmmat.com/hand-rail-installation/",
+            "title": "Hand Rail Installation",
+            "summary": "Stairway handrail or terrace handrail ads safety to its access. Handrail must be installed properly, inline and with the appropriate height to make it usable. We have the experienced masons to construct it in a good manner either it be concrete, steel or wooden rails&hellip;",
+            "content_html": "<p>Stairway handrail or terrace handrail ads safety to its access. Handrail must be installed properly, inline and with the appropriate height to make it usable. We have the experienced masons to construct it in a good manner either it be concrete, steel or wooden rails</p>\n<p><a href=\"https://codespace.com.np/booking/?cat_id=10&amp;service_id=23\" target=\"_blank\" rel=\"noopener noreferrer\">Book Now</a></p>",
+            "image": "https://marmmat.com/media/posts/2/handrail-installation.jpg",
+            "author": {
+                "name": "Code Space Services"
+            },
+            "tags": [
+                   "Civil Worker"
+            ],
+            "date_published": "2020-07-08T16:08:27+05:45",
+            "date_modified": "2020-07-08T16:08:27+05:45"
+        },
+        {
             "id": "https://marmmat.com/ceiling-leakage-repair/",
             "url": "https://marmmat.com/ceiling-leakage-repair/",
             "title": "Ceiling Leakage Repair",
@@ -23,8 +39,8 @@
             "tags": [
                    "Civil Worker"
             ],
-            "date_published": "2020-07-08T14:05:11+05:45",
-            "date_modified": "2020-07-08T14:05:11+05:45"
+            "date_published": "2020-07-08T16:08:27+05:45",
+            "date_modified": "2020-07-08T16:08:27+05:45"
         }
     ]
 }
