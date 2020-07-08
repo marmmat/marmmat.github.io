@@ -2,29 +2,29 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Marmmat",
     "description": "",
-    "home_page_url": "https://marmmat.github.io",
-    "feed_url": "https://marmmat.github.io/feed.json",
+    "home_page_url": "https://codespacenp.gitlab.io/marmmat",
+    "feed_url": "https://codespacenp.gitlab.io/marmmat/feed.json",
     "user_comment": "",
-    "icon": "https://marmmat.github.io/media/website/logo-marmmat-small.png",
+    "icon": "https://codespacenp.gitlab.io/marmmat/media/website/logo-marmmat-small.png",
     "author": {
         "name": "Code Space Services"
     },
     "items": [
         {
-            "id": "https://marmmat.github.io/ceiling-leakage-repair/",
-            "url": "https://marmmat.github.io/ceiling-leakage-repair/",
+            "id": "https://codespacenp.gitlab.io/marmmat/ceiling-leakage-repair/",
+            "url": "https://codespacenp.gitlab.io/marmmat/ceiling-leakage-repair/",
             "title": "Ceiling Leakage Repair",
             "summary": " Leaking water can damage your expansive devices or corrode the existing structures making it weak to collapse. It must be stopped before it is too late. We have a waterproofing specialist for repairing roof leakage, water leakage, seepage leak, toilet leak base. We also&hellip;",
             "content_html": "\n  <p>\n    Leaking water can damage your expansive devices or corrode the existing structures making it weak to collapse. It must be stopped before it is too late. We have a waterproofing specialist for repairing roof leakage, water leakage, seepage leak, toilet leak base. We also have expert engineers for your consultation.\n  </p>\n\n  <p>\n    <a href=\"https://codespace.com.np/booking/?cat_id=10&amp;service_id=23\" target=\"_blank\">Book Now</a>\n  </p>\n\n  <p>\n    \n  </p>",
-            "image": "https://marmmat.github.io/media/posts/1/ceiling-leakage-fixing.jpg",
+            "image": "https://codespacenp.gitlab.io/marmmat/media/posts/1/ceiling-leakage-fixing.jpg",
             "author": {
                 "name": "Code Space Services"
             },
             "tags": [
                    "Civil Worker"
             ],
-            "date_published": "2020-07-08T13:15:37+05:45",
-            "date_modified": "2020-07-08T13:15:37+05:45"
+            "date_published": "2020-07-08T13:38:48+05:45",
+            "date_modified": "2020-07-08T13:38:48+05:45"
         }
     ]
 }
